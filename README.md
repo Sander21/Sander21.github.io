@@ -1,5 +1,10 @@
 # Sander21.github.io   22.1.2021
-Offline Programming learning system(Offline programming learning system)
+This system has created by hsuwaihnin and supervised by Dr.khinkhinzaw , department of CEIT, Yangon Technological University
+..........................................
+Offline Pyplas system will be to support the student programming skill.
+.............................
+Element Testing in Pyplas system
+..............................
 Teacher creates questions automatically according to their python code.
 Teacher gives this offline  code as assignments to students.
 Student answers this questions frequently.
